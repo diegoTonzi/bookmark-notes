@@ -1,9 +1,10 @@
 {
   "name" : "Bookmarks",
   "private" : true,
-  "version": "0.9",
+  "version": "1.0.0",
   "engines": {
-    "node": "6.11.1"
+    "node": "6.11.1",
+    "mpm": "5.2.0"
   },
   "description" : "",
   "keywords" : [ ],
