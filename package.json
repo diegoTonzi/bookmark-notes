@@ -1,14 +1,14 @@
 {
   "name" : "Bookmarks",
   "private" : true,
-  "version": "1.0.0",
+  "version": "0.9",
   "engines": {
     "node": "6.11.1"
   },
   "description" : "",
   "keywords" : [ ],
   "dependencies" : {
-    "sqlite3" : "3.1.1",
+    "sqlite3" : "~3.1.4",
     "mustache-layout" : "1.0.9",
     "express": "3.x",
     "body-parser": "1.13.3",
